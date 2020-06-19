@@ -1,2 +1,2 @@
 # php-test
-Testing out basic usage of PHP
+Testing out basics of PHP
